@@ -13,7 +13,7 @@ var GoogleSearch = (function () {
   GoogleSearch.prototype.getSearchButton = function () {   return this.searchButton;  };
 
 
-  GoogleSearch.prototype.visitV8GoogleSearch = function () {
+  GoogleSearch.prototype.visitGoogleSearch = function () {
     console.log("url:" + browser.testEnv.baseUrl);
     browser.get(browser.testEnv.baseUrl);
   };
