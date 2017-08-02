@@ -1,0 +1,20 @@
+{
+    "name": "automation-google",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "client", "browser"],
+    "contributors": ["petersenrr"],
+    "license": "CC-BY-SA-4.0",
+    "private": false,
+    "description": "Protractor Framework Page Objects",
+    "readmeFilename": "README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/IntelligentSigma/automation-google.git"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "engines": {
+    }
+}
