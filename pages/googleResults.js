@@ -2,7 +2,7 @@ var GoogleResults = (function () {
   function GoogleResults() {
 
 
-    this.searchResult = element(By.css('#main #rcnt #search #imagebox_bigimages .iu-card-header'));
+    this.searchResult = element(By.css('#main #rcnt #res #rso .g .rc a'));
     this.searchResults = element.all(By.css('#main #rcnt #search .g'))
 
 

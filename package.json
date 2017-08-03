@@ -1,6 +1,6 @@
 {
     "name": "automation-google",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "keywords": ["util", "functional", "client", "browser"],
     "contributors": ["petersenrr"],
     "license": "CC-BY-SA-4.0",
